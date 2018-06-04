@@ -25,3 +25,6 @@ Using PageMeasure to lets your draw out a ruler to any page and displays the wid
 1. Check **Developer mode** in the top of the Extensions page
 1. Click **Load unpacked extension...**
 1. Choose the sub-directory **pagemeasure** (where manifest.json resides)
+
+## Special Thanks
+- [Duygu Karabakal](https://dribbble.com/duygukarabakal) for design support.
