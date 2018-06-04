@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "PageMeasure",
+  "description": "Draw a ruler to get pixel dimensions and positioning, and measure elements on any web page.",
+  "version": "0.1",
+  "developer": {
+    "name": "Volkan YILMAZ",
+    "url": "http://www.vyz.gen.tr/"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+    "tabs", "activeTab", "http://*/*"
+  ],
+  "homepage_url": "http://www.vyz.gen.tr/",
+  "browser_action": {
+    "default_icon": "logo.png",
+    "default_title": "PageMeasure"
+  }
+}
